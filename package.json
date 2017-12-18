@@ -1,0 +1,16 @@
+{
+  "name": "falling-borders",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Ben Thompson <git@iambenthompson.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.2.0"
+  },
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
